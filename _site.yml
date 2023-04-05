@@ -1,0 +1,8 @@
+name: "AC-Website"
+navbar:
+  title: "Alexandra Cooper: projects"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
