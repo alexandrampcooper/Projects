@@ -1,6 +1,6 @@
 name: "AMPC-Website"
 navbar: 
-  title: "Project Portfolio"
+  title: "Project Portfolio_TEST"
   left:
     - text: "Home"
       href: index.html
