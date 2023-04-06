@@ -1,5 +1,5 @@
 name: "AMPC-Website"
-navbar:
+navbar: 
   title: "Project Portfolio"
   left:
     - text: "Home"
@@ -8,3 +8,4 @@ navbar:
       href: about.html
     - text: "First R project"
       href: coursera_capstone.html
+output_dir: "docs"

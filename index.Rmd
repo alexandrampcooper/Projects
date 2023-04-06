@@ -2,7 +2,17 @@
 title: "Alexandra's World"
 ---
 
-## Hello and welcome to my website! 
 
-Here you will find a showcase of my R projects, where I explore the power of data analysis and visualization.
-I love using this tool to tackle complex problems and uncover insights that can make a difference. Whether it's analyzing data sets, building models, or creating visualizations, I am always looking for new ways to use R to help solve real-world challenges. So take a look around and let's discover together! 
+
+### Hello and welcome to my website  
+
+Here you will find a showcase of my R projects, where I explore the power of data analysis and visualization. I love using this tool to tackle complex problems and uncover insights that can make a difference. Whether it's analyzing data sets, building models, or creating visualizations, I am always looking for new ways to use R to help solve real-world challenges. The intention of this website is therefore to learn, develop and demonstrate techniques for exploring and visualizing real-world data. 
+
+<div style="text-align:center">
+
+![](https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif)
+
+
+
+## _So take a look around and let's discover together! _
+</div>
