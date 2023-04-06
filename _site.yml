@@ -1,6 +1,6 @@
-name: "AC-Website"
+name: "AMPC-Website"
 navbar:
-  title: "Alexandra Cooper: projects"
+  title: "Project Portfolio"
   left:
     - text: "Home"
       href: index.html
