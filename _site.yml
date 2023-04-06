@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "First R project"
       href: coursera_capstone.html
+    - text: "Links"
+      href: about.html
 output_dir: "docs"
