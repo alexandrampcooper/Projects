@@ -33,7 +33,10 @@ For the purpose of this analysis, I aimed to examine and compare the patterns of
 Meat consumption is measured in thousand tonnes of carcass weight  as well as in kilograms of retail weight per capita.
 This indicator is presented for beef, pig, poultry, and sheep.
 
-[](https://www.vecteezy.com/vector-art/15654611-meat-food-icon-isometric-style)
+<div style="text-align:center">
+
+![](https://ichef.bbci.co.uk/news/640/cpsprodpb/B3E2/production/_104205064_gettyimages-75883096.jpg)
+
 
 
 ```{r load data, echo=FALSE}
@@ -114,14 +117,14 @@ Countries were grouped by geographical continent. Note, countries that spread ac
 
 Categorization of countries as high-income, middle-income, or low-income may vary depending on the classification used by different organizations. However, using the World Bank's income classifications based on Gross National Income (GNI) per capita, the categorization of the countries you provided would be as follows for 1990 and 2023:
 
-1990:
-High-income: CAN, USA, ARG, BRA, CHL, ISR, JPN, KOR, AUS, GBR, CHE, NZL, and NOR.
-Middle-income: MEX, PRY, PER, CHN, COL, IND, IDN, IRN, KAZ, MYS, PAK, PHL, SAU, THA, VNM, and TUR. 
-Low-income: Not applicable 
-2023:
-High-income: CAN, USA, ISR, JPN, CHE, GBR, KOR, NOR, NZL, AUS, and SAU
-Middle-income: ARG, BRA, CHL, MEX, PRY, PER, CHN, COL, IND, IDN, IRN, KAZ, MYS, PAK, PHL, SAU, THA, VNM, TUR, AUS, NZL, UKR, NOR, and RUS.
-Low-income: EGY, ETH, NGA, and ZAF.
+- **1990**
+     - **High-income**: CAN, USA, ARG, BRA, CHL, ISR, JPN, KOR, AUS, GBR, CHE, NZL, and NOR.
+     - **Middle-income**: MEX, PRY, PER, CHN, COL, IND, IDN, IRN, KAZ, MYS, PAK, PHL, SAU, THA, VNM, and TUR. 
+     - **Low-income**: Not applicable 
+- **2023**
+     - **High-income**: CAN, USA, ISR, JPN, CHE, GBR, KOR, NOR, NZL, AUS, and SAU
+     - **Middle-income**: ARG, BRA, CHL, MEX, PRY, PER, CHN, COL, IND, IDN, IRN, KAZ, MYS, PAK, PHL, SAU, THA, VNM, TUR, AUS, NZL, UKR, NOR, and RUS.
+     - **Low-income**: EGY, ETH, NGA, and ZAF.
 
 It's important to note that these classifications are based on GNI per capita and are subject to change over time as countries' economies evolve. Additionally, there may be variations in classification criteria used by different organizations or countries themselves.
 
