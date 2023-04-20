@@ -40,7 +40,7 @@ This indicator is presented for beef, pig, poultry, and sheep.
 
 
 ```{r load data, echo=FALSE}
-meat <- read.csv("C:/Users/alecoo/OneDrive - Karolinska Institutet/Desktop/Portfolio/public data/meat_consumption.csv",
+meat <- read.csv("C:/Users/alecoo/OneDrive - Karolinska Institutet/Desktop/Portfolio/github_repo/projects/coursera_data.Rdata/meat_consumption.csv",
                  header = T,
                  sep = ",",
                  stringsAsFactors = F)
