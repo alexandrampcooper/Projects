@@ -6,5 +6,7 @@ navbar:
       href: index.html
     - text: "First R project"
       href: coursera_capstone.html
+    - text: "Meat Consumption"
+      href: meat_consumption.html
     - text: "Links"
       href: about.html
