@@ -10,3 +10,4 @@ navbar:
       href: meat_consumption.html
     - text: "Links"
       href: about.html
+output_dir: "docs"
