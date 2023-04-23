@@ -14,7 +14,7 @@ As a statistical consultant working for a real estate investment firm, your task
 ## Training Data and Relevant Packages
 
 ```{r load, echo = FALSE}
-load("C:/Users/alecoo/OneDrive - Karolinska Institutet/Desktop/Portfolio/github_repo/projects/coursera_data.Rdata")
+load("coursera_data.Rdata")
 ```
 
 ```{r packages, message = FALSE, warning=FALSE}
